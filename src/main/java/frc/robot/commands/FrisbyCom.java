@@ -37,11 +37,14 @@ public class FrisbyCom extends Command {
       break;
     case 2:
       // do stuff
+      Robot.fsub.option2();
       break;
     case 3:
+    Robot.fsub.option3();
       // do stuff
       break;
     case 4:
+    Robot.fsub.option4();
       // do stuff
       break;
     }
